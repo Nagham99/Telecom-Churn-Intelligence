@@ -23,7 +23,7 @@ Visualizations: Plotly Express (Interactive), Seaborn, Matplotlib
 
 Web Framework: Streamlit (Multipage App)
 
-Models: Random Forest Classifier (current), XGBoost (experimental)
+Models: Random Forest Classifier (current)
 
 ## 📈 Features
 1. Executive Dashboard (EDA)
