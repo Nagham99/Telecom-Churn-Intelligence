@@ -15,14 +15,6 @@ Web Framework: Streamlit (Multipage App)
 
 Models: Random Forest Classifier (current), XGBoost (experimental)
 
-Version Control: Git & GitHub
-
-📁 Repository Structure
-Plaintext
-├── home.py               # App entry point & Navigation logic
-├── app3.py          # EDA page (Interactive charts & insights)
-├── prediction.py         # ML Prediction page (User inputs & risk scoring)
-├── 🚀 Telecom Customer Churn Intelligence Dashboard
 
 ## 🛠️ Tech Stack
 Analysis & ML: Python (Pandas, NumPy, Scikit-Learn)
@@ -46,17 +38,3 @@ Interactive Inputs: Adjust tenure, contract type, and monthly charges to see rea
 
 Probability Mapping: Provides a percentage-based churn risk rather than a simple Yes/No.
 
-
-
-📁 Repository Structure
-Plaintext
-├── home.py               # App entry point & Navigation logic
-├── dashboard.py          # EDA page (Interactive charts & insights)
-├── prediction.py         # ML Prediction page (User inputs & risk scoring)
-├── churn_model.pkl          # Trained Random Forest Model
-├── encoders.pkl          # Saved LabelEncoders for categorical data
-├── df_merg               # Cleaned & processed dataset
-└── requirements.txt      # Dependencies for deployment
-
-
-Business Recommendations: Generates automated advice (e.g., "Offer Loyalty Discount") based on the risk level.
