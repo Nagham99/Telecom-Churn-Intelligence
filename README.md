@@ -1,6 +1,6 @@
 ## 🚀 Telecom Customer Churn Intelligence Dashboard
 This project is a comprehensive End-to-End Data Science & Analytics solution designed to identify, analyze, and predict customer churn for a telecommunications provider. It features an interactive Streamlit dashboard with high-level EDA (Exploratory Data Analysis) and a Machine Learning prediction engine.
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][(https://your-app-link.streamlit.app](https://telecom-churn-intelligence-6vmdtoq2aurl4mxkfq6fuc.streamlit.app/))
 ## 📊 Project Overview
 The primary goal was to uncover why customers leave and build a tool that allows business stakeholders to predict churn risk for individual accounts.
 
